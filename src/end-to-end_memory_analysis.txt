@@ -1,0 +1,6 @@
+#run the commands from Matlab command line
+>> mem1 = memory
+>> filename
+>> mem2 = memory
+>> mem_used = (mem2.MemUsedMATLAB - mem1.MemUsedMATLAB)/(1024^2)
+#this will give memory utilized in MB
