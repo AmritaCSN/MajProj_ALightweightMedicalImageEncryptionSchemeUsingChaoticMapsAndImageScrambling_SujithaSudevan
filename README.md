@@ -1,0 +1,2 @@
+# MajProj_ALightweightMedicalImageEncryptionSchemeUsingChaoticMapsAndImageScrambling_SujithaSudevan
+This repository contains the code implemented for the project "A Lightweight Medical Image Encryption Scheme Using Chaotic Maps and Image Scrambling
