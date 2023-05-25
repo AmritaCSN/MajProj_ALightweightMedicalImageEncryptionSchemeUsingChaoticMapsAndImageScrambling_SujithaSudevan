@@ -3,7 +3,7 @@ This repository contains the code implemented for the project "A Lightweight Med
 
 ## A Lightweight Medical Image Encryption Scheme Using Chaotic Maps and Image Scrambling
 
-This repository is divided into 3 parts:
+This repository is divided into 2 parts:
 1. /src folder: Contains code for 4 algorithms and security analysis. Also contains images required for implementation.
 2. Architectural Block Diagram: Contains the pictorial representation of the flow of the code implementation.
 
