@@ -1,0 +1,4 @@
+#run the command from Matlab command line
+>> tic
+>> filename
+>> toc
